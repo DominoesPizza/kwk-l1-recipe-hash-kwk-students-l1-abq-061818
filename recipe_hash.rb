@@ -1,4 +1,7 @@
-#code your solutions here
+recipe_ingredients = {
+    almond_flower => 2_cups
+    
+}
 
 #1. Create a hash called `perfect_10_recipe` that has the following data:
 #  - almond flour - 2 cups
