@@ -36,3 +36,12 @@ end
 #6: Return the number of ingredients in the `perfect_10_recipe` hash.
 def number_ingredients(perfect_10_recipe)
 end
+
+
+student_ages = {
+  :victoria => 25,
+  :arel => 27,
+  :carley => 25,
+  :jordan => 28, 
+  :al => 26
+}
