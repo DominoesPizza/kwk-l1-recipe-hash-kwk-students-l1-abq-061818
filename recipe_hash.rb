@@ -1,14 +1,14 @@
 recipe_ingredients = {
-    almond_flower => 2_cups
-    gluten_freewhole_oats => 1_cup
-    kosher_salt => 1/2_tea_spoon
-    baking_powder  => 1/2_tea_spoon
-    baking_soda => 1/4_tea_spoon
-    xanthan_gum => 1/2_tea_spoon
-    slivered_almonds_lightly_toasted => 1/4_cup
-    mini_dark_chocolate_chips => 3/4_cup
-    olive_oil => 1/2_cup
-    agave => 1/4_cup
+    "almond_flower" => 2_cups
+    "gluten_freewhole_oats" => 1_cup
+    "kosher_salt" => 1/2_tea_spoon
+    "baking_powder" => 1/2_tea_spoon
+    "baking_soda" => 1/4_tea_spoon
+    "xanthan_gum" => 1/2_tea_spoon
+    "slivered_almonds_lightly_toasted" => 1/4_cup
+    "mini_dark_chocolate_chips" => 3/4_cup
+    "olive_oil" => 1/2_cup
+    "agave" => 1/4_cup
     
 }
 
